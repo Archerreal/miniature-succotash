@@ -1,0 +1,8 @@
+{
+  "name": "ArcherRelay",
+  "version": "1.1.0",
+  "type": "module",
+  "description": "High-performance serverless relay for Xray optimized for Vercel deployment with low latency and minimal resource usage",
+  "private": true,
+  "license": "MIT"
+}
